@@ -45,9 +45,7 @@ I craft , weld, and build stuff.
 
 ### what i'm working on
 
-- experimenting with a **just-in-time compiler** to understand runtimes, code generation, and performance and possibly write my own language.
-- Worrying about school.
-
+- rewriting the **just-in-time compiler** in **RUST**
 
 
 
