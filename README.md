@@ -1,6 +1,6 @@
 ## hi, i'm roket
 
-I craft , weld, and build stuff.
+NGMI
 
 ---
 
