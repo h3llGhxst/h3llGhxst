@@ -6,7 +6,6 @@ systems programmer. building compilers, allocators, and low-level tools in C, Ru
 
 ### languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-000000?style=for-the-badge)
 ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-2C2C2C?style=for-the-badge)
