@@ -1,6 +1,6 @@
 ## hi, i'm roket
 
-systems programmer. building compilers, allocators, and low-level tools in C, Rust, and assembly.
+systems programmer. building compilers, allocators, and low-level tools in C, Rust,Golang and assembly.
 
 ---
 
