@@ -38,10 +38,17 @@ systems programmer. building compilers, allocators, and low-level tools in C, Ru
 
 ### what i am building
 
-- **[just-in-time compiler](https://github.com/roketrakunn/JUST-IN-TIME-COMPILER)** — arithmetic expression JIT in C, rewriting in Rust. parses to AST, emits x86 machine code via `mmap`, executes directly on CPU.
-- **[memory allocator](https://github.com/roketrakunn/memory_allocator)** — heap allocator written in pure x86 assembly. uses `brk` syscall, manages header metadata for allocation tracking.
-- **[devtracker](https://github.com/roketrakunn/devTracker)** — terminal-based coding activity logger with XP and streaks, built in Go.
-
+  - **[linux
+  debugger](https://github.com/roketrakunn/debugger)** —
+  ptrace-based debugger in Rust. INT3 breakpoints, ELF symbol
+  resolution, ASLR-aware, stack walking.
+  - **[rukia](https://github.com/roketrakunn/rukia)** —
+  container runtime from scratch in Rust. Linux namespaces,
+  chroot, pty — basically a baby Docker.
+  - **[just-in-time compiler](https://github.com/roketrakunn/JUS
+  T-IN-TIME-COMPILER)** — arithmetic expression JIT in C,
+  rewriting in Rust. parses to AST, emits x86 machine code via
+  `mmap`, executes directly on CPU.
 ---
 
 ### interests
