@@ -45,8 +45,7 @@ systems programmer. building compilers, allocators, and low-level tools in C, Ru
   - **[rukia](https://github.com/roketrakunn/rukia)** —
   container runtime from scratch in Rust. Linux namespaces,
   chroot, pty — basically a baby Docker.
-  - **[just-in-time compiler](https://github.com/roketrakunn/JUS
-  T-IN-TIME-COMPILER)** — arithmetic expression JIT in C,
+  - **[just-in-time compiler](https://github.com/roketrakunn/JUST-IN-TIME-COMPILER)** — arithmetic expression JIT in C,
   rewriting in Rust. parses to AST, emits x86 machine code via
   `mmap`, executes directly on CPU.
 ---
