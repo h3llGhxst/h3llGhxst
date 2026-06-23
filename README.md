@@ -4,6 +4,8 @@ from scratch — in Rust, Go, C, and assembly.
 
 open to systems / backend internships.
 
+🖥️ **explore my work in an interactive terminal → [h3llghxst.github.io/portfolio](https://h3llghxst.github.io/portfolio/)**
+
 ---
 
 ### languages
@@ -35,11 +37,11 @@ open to systems / backend internships.
 ---
 
 ### what i'm building
-- **[container runtime — rukia](https://github.com/roketrakunn/rukia)** — minimal Docker in Rust. Linux namespaces, chroot, PTY, veth networking with NAT masquerade.
-- **[linux debugger](https://github.com/roketrakunn/debugger)** — ptrace-based in Rust. INT3 breakpoints, ELF symbol resolution, ASLR-aware, stack walking.
-- **[jit compiler](https://github.com/roketrakunn/JUST-IN-TIME-COMPILER)** — recursive descent → AST → x86-64 machine code via mmap. if/else, while, functions, globals, recursion. originally C, rewritten in Rust.
-- **[memory allocator](https://github.com/roketrakunn/memory_allocator)** — malloc/free in pure x86 assembly. no stdlib, no runtime, no safety net.
-- **[networking tools](https://github.com/roketrakunn/Networks)** — packet sniffer, TCP port scanner, concurrent chat server in Go.
+- **[container runtime — rukia](https://github.com/h3llGhxst/rukia)** — minimal Docker in Rust. Linux namespaces, chroot, PTY, veth networking with NAT masquerade.
+- **[linux debugger](https://github.com/h3llGhxst/debugger)** — ptrace-based in Rust. INT3 breakpoints, ELF symbol resolution, ASLR-aware, stack walking.
+- **[jit compiler](https://github.com/h3llGhxst/JUST-IN-TIME-COMPILER)** — recursive descent → AST → x86-64 machine code via mmap. if/else, while, functions, globals, recursion. originally C, rewritten in Rust.
+- **[memory allocator](https://github.com/h3llGhxst/memory_allocator)** — malloc/free in pure x86 assembly. no stdlib, no runtime, no safety net.
+- **[networking tools](https://github.com/h3llGhxst/Networks)** — packet sniffer, TCP port scanner, concurrent chat server in Go.
 
 ---
 
